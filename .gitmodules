@@ -1,0 +1,15 @@
+[submodule "crc-lib-c"]
+	path = crc-lib-c
+	url = https://github.com/whik/crc-lib-c.git
+[submodule "encrypt_decrypt"]
+	path = encrypt_decrypt
+	url = https://gitee.com/liones/encrypt_decrypt.git
+[submodule "AES"]
+	path = AES
+	url = https://github.com/lmshao/AES.git
+[submodule "md5"]
+	path = md5
+	url = https://github.com/talent518/md5.git
+[submodule "md5-sha1-sha224-sha256-sha384-sha512"]
+	path = md5-sha1-sha224-sha256-sha384-sha512
+	url = https://gitee.com/honrun_he/md5-sha1-sha224-sha256-sha384-sha512.git
