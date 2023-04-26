@@ -116,7 +116,7 @@ printf("\n------------------------\n");*/
 #include "sha512.h"
 
 //int i;
-uint8_t datsrc[] = {"safkjsdawifkasfhwfkaldfahhfa"}; //要运算的数据
+uint8_t datsrc[] = {"safkjsdawifkasfhwfkaldfahhfa"}; //要运算的数据（注:不包括结束符!）
 uint8_t result[64]; //结果寄存器
 
 // 方式一：
