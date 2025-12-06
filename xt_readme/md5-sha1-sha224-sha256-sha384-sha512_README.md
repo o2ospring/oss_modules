@@ -76,7 +76,7 @@ SHA、MD5、AES、DES 摘要/加密算法简介：
 #include "md5.h"
 
 //int i;
-uint8_t datsrc[] = {"safkjsdawifkasfhwfkaldfahhfa"}; //要运算的数据
+uint8_t datsrc[] = {"safkjsdawifkasfhwfkaldfahhfa"}; //要运算的数据（注:不包括结束符!）
 uint8_t result[16]; //结果寄存器
 
 // 方式一：
